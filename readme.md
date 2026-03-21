@@ -1,5 +1,4 @@
-# Hi, I'm Dries,
-
+Hi, I'm Dries,
 Coder / designer living in Lisbon
 
 ```text
