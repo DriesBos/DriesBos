@@ -1,4 +1,4 @@
-Hi!, I'm a coder—designer based in Lisbon, Portugal.
+Developer——designer based in Lisbon, Portugal.
 
 ```text
  ▢▢▢▢▢▢▢▢▢▢▢▢▢▢◽▢◽▢▢▢▢◽▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢◽▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢◽▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢
@@ -53,4 +53,4 @@ Hi!, I'm a coder—designer based in Lisbon, Portugal.
  ▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢
  ▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢
 ```
-Squares in ASCII, Josef Albers.
+Squares in ASCII, inspired by Josef Albers.
