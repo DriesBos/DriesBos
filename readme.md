@@ -1,5 +1,12 @@
 Developer——designer based in Lisbon, Portugal.
 
+Versed in JavaScript development, interfaces, UX, apps, mobile apps, ecommerce.
+
+Stack: 
+```
+JavaScript / React / React Native / Vue / Headless CMS / Sanity / Storyblok / WordPress / Shopify / WooCommerce / WebGL / GSAP / ThreeJS / P5 / ...
+```
+
 ```text
  ▢▢▢▢▢▢▢▢▢▢▢▢▢▢◽▢◽▢▢▢▢◽▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢◽▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢◽▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢
  ▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢◽▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢▢
